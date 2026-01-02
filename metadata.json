@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SilentZone Assistant",
+  "description": "A location-based assistant for teachers to remind them to silence their phones when entering the classroom.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
